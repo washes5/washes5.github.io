@@ -19,5 +19,6 @@ h4{
 
 form{
 	background-color: brown;
-	text-align: left;
+	text-align: center;
+	display: inline-block;
 }
